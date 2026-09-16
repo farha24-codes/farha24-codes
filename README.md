@@ -89,11 +89,33 @@ Pandas • NumPy • Excel (VLOOKUP, XLOOKUP, SUMIF) • Data Visualization
 - Google / Coursera
 - Data Science Internship — Teachnook
 
+## 🚀 Projects
+
+**Churn Prediction**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+<br/><br/>
+
+**AI Document Assistant**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-1e1e2e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Sentence--Transformers-1e1e2e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=your-github-handle&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=farha24-codes&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 ---
