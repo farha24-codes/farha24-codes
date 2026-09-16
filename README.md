@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <h1 align="left">
@@ -20,7 +18,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:farha.n242004@gmail.com"><img src="https://img.shields.io/badge/📧_farha.n242004@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:farha.n242004@gmail.com">📧 farha.n242004@gmail.com</a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Work_(Software_&_Data)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🎓_BCA_%E2%80%94_Presidency_College-1e1e2e?style=for-the-badge" />
   </p>
